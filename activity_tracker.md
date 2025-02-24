@@ -11,3 +11,4 @@ This file is a log of my coding efforts on my learn-to-code journey (diary)!
   - Added the footer component
   - Implemented the image viewer
 - Recorded content for the Get Hired course
+  -created new project
