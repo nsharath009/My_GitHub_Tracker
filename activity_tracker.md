@@ -18,3 +18,11 @@ This file is a log of my coding efforts on my learn-to-code journey (diary)!
 ### 26-02-25
 
 - continued with full stack course
+
+### 27-02-25
+
+- continued with full stack course
+
+### 27-02-25
+
+- continued with full stack course
