@@ -4,7 +4,7 @@ This file is a log of my coding efforts on my learn-to-code journey (diary)!
 
 ---
 
-### 29-03-25
+### 30-03-25
 
 - Played some Valorant
 - Worked on the Next.js Ecommerce store for the full-stack course
